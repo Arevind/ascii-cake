@@ -83,8 +83,10 @@ The `.exe` will be available inside the dist/ folder.
 📂 Project Structure
 ascii-cake/
 │
-├── ascii_cake.py     # Main script
+├── fireworks.py      # Main script
+├── fireworks.spec 
 ├── music.mp3         # (Optional) bundled birthday track
+├── requirements.txt
 └── README.md         # You're reading it 🎉
 ```
 ## 🎵 Music
