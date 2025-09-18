@@ -90,12 +90,13 @@ ascii-cake/
 └── README.md         # You're reading it 🎉
 ```
 ## 🎵 Music
-
+- Included music by [pianocafe_Kumi](https://pixabay.com/users/pianocafe_kumi-35185506/)
+- 
 - Default file name: `music.mp3`
 
 - If not found, the app switches to simulation mode 🎶 (fake notes in the console).
 
-- You can drop in any `.mp3` you like.
+- You can drop in any `.mp3` you like.(just name it to music)
 
 ## 🎁 Why did I build this?
 
@@ -123,4 +124,4 @@ Make someone’s day better with a little terminal confetti.
 
 🎂  🎈  🎁  ✨  🌟  💖  🎊  🥳
 
-included music by [pianocafe_Kumi](https://pixabay.com/users/pianocafe_kumi-35185506/) 
+
