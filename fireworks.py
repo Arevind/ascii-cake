@@ -384,7 +384,7 @@ def display_ascii_art():
     """Display the ASCII art with beautiful styling"""
     console.clear()
     
-    title = Text("MESSAGE TRANSMISSION FROM AN AI INTERN TO A CS-AI STUDENT", style="bold bright_yellow")
+    title = Text("MESSAGE TRANSMISSION FOR CELEBRATION PROTOCOL", style="bold bright_yellow")
     title_panel = Panel(
         Align.center(title),
         box=box.DOUBLE,
