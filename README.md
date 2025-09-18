@@ -72,20 +72,12 @@ The `.exe` will be available inside the dist/ folder.
 ⚠️ Pro tip: Keep your volume on for the full experience.
 
 ## 🔐 A Sneak Peek
-```bash
-Loading essential scripts...
-Scripts have been successfully initialized.
-Unauthorized Access Detected.
-Authorization required. Running user verification protocol...
-```
-
-Then you’ll face questions like:
-```bash
-Who is the coolest of them all ?
-```
-
-
-Pass the quiz, and you get fireworks + ASCII cake + a heartfelt letter. Fail it… well… `🚨 INTRUDER DETECTED 🚨`
+1.
+<img width="1621" height="908" alt="Screenshot 2025-09-18 165558" src="https://github.com/user-attachments/assets/827ba9b1-74eb-4c31-b5d2-ec11860d6949" />
+2.
+<img width="1639" height="904" alt="Screenshot 2025-09-18 165853" src="https://github.com/user-attachments/assets/adafdd24-5847-4091-b846-e01b62dc0e83" />
+3.
+<img width="1573" height="880" alt="Screenshot 2025-09-18 165934" src="https://github.com/user-attachments/assets/634adda1-0999-49c1-bd08-bb5f52f15f82" />
 
 ```python
 📂 Project Structure
