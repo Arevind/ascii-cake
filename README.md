@@ -90,7 +90,7 @@ ascii-cake/
 ```
 ## 🎵 Music
 - Included music by [pianocafe_Kumi](https://pixabay.com/users/pianocafe_kumi-35185506/)
-- 
+   
 - Default file name: `music.mp3`
 
 - If not found, the app switches to simulation mode 🎶 (fake notes in the console).
